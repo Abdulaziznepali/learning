@@ -1,0 +1,1 @@
+// there are four types of varibel key in js 
