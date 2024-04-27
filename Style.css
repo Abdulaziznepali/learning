@@ -265,7 +265,7 @@ letter-spacing: 0.3px;
 .aboutContainer .containerBox-1{
     height: 29vw;
     width: 50%;
-    background-image: url(../img/school.jpg);
+    background-image: url(school.jpg);
     background-size: cover;
     background-position: top;
     border-radius: 5px;
@@ -442,7 +442,7 @@ width: 3vw;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background-image: url("../img/teacher.jpg");
+    background-image: url("teacher.jpg");
     height: 360px;
     width: 60%;
     background-size: cover;
